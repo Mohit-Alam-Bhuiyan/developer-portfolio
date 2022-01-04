@@ -13,6 +13,7 @@ h1{
 
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 
 .first{
@@ -20,7 +21,7 @@ section{
     padding-left: 5%;
 }
 
-.second img{
+.first img{
     width: 80%;
 }
 
@@ -41,3 +42,10 @@ button{
   background-image: url("./images/top-banner.png");
   background-repeat:no-repeat;
 }
+
+
+.dream-big{
+        background-image: url("./images/dream-bg.png");
+        background-repeat:no-repeat;
+        background-position: right;
+ }
